@@ -6,3 +6,8 @@ llm test cli
 brew tap tkdtn2013/lumina
 brew install lumina 
 ```
+
+# UnInstall
+```bash
+brew uninstall lumina
+```
